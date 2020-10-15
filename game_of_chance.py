@@ -1,7 +1,7 @@
 import random 
 >>>>>>> hola
 money = 100
-
+hola
 #Coin game
 def coin_flip (bet, choice):
     coin_result = random.randint(1,2)
